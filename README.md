@@ -10,11 +10,12 @@ Required Packages: [discord.js@13.8.1](https://www.npmjs.com/package/discord.js/
 Because in the future, things may change like some functions won't work anymore (Deprecated or removed). So, let's keep the DJS version 13.8.1 for now, and if there is another version compatible with this project, then we will change this project to new project.
 
 # Setup:
-## Install packahes:
+### Install packages:
 Type in shell of your IDE: `npm i`
-## Run the project:
-Type in the terminal/console or shell of your IDE: `node .` or `node index.js`.
-## Features:
+### Run the project:
+Type in the terminal or shell of your IDE `node .` or `node index.js`.
+### Features:
+Click on the select menu below to view available features on this project.
 <details><summary>Click here!</summary>
   
 | Features             | Availability | 
@@ -25,3 +26,11 @@ Type in the terminal/console or shell of your IDE: `node .` or `node index.js`.
 | MongoDB              |     ❌       |
 | Custom Prefix        |     ❌       |
 </details>
+
+# How it works:
+### Slash commands handler:
+#### What is `TESTING_GUILD_ID`? And why do we need it?
+The variable `TESTING_GUILD_ID` will makes the project to **register** new slash commands on **Discord** and to **the server** id that you've set. If the server id is not found in `TESTING_GUILD_ID` in config.json, then the project will **register** new slash commands to **Discord** and to **all Discord servers** that's your bot in.
+
+# Credits:
+This project was made by T.F.A#7524. If you want to share this project for your friends or public, please give credits to me or this will end in a copyright warning. Thank you!
