@@ -29,6 +29,9 @@ Click on the select menu below to view available features on this project.
 
 # How it works:
 ### Slash commands handler:
+#### Why the `ID` of my client is always required?
+This variable is required for slash commands handler, so the project can register the slash commands to Discord and to the Bot.
+
 #### What is `TESTING_GUILD_ID`? And why do we need it?
 The variable `TESTING_GUILD_ID` will makes the project to **register** new slash commands on **Discord** and to **the server** id that you've set. If the server id is not found in `TESTING_GUILD_ID` in config.json, then the project will **register** new slash commands to **Discord** and to **all Discord servers** that's your bot in.
 
