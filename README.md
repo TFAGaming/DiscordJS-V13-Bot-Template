@@ -7,11 +7,11 @@ Package Manager: [NPM](https://www.npmjs.com/)<br>
 Required Packages: [discord.js@13.8.1](https://www.npmjs.com/package/discord.js/v/13.8.1) - [discord-api-types](https://www.npmjs.com/package/discord-api-types) - [@discordjs/rest](https://www.npmjs.com/package/@discordjs/rest)
 
 ### Why this project requires discord.js version 13.8.1 only?
-Because in the future, things may change like some functions won't work anymore (Deprecated or removed). So, let's keep the DJS version 13.8.1 for now, and if there is another version compatible with this project, then we will change this project to new project.
+Because in the future, things may change like some functions won't work anymore (Deprecated or removed). So, let's keep the DJS version 13.8.1 for now, and if there is another version compatible with this project, then we will update this project with a new version.
 
 # Setup:
 ### Install packages:
-Type in shell of your IDE: `npm i`
+Type in shell of your IDE: `npm install`
 ### Run the project:
 Type in the terminal or shell of your IDE `node .` or `node index.js`.
 ### Features:
