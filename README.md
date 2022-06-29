@@ -8,3 +8,7 @@ Required Packages: [discord.js@13.8.1](https://www.npmjs.com/package/discord.js/
 
 ### Why this project requires discord.js version 13.8.1 only?
 Because in the future, things may change like some functions won't work anymore (Deprecated or removed). So, let's keep the DJS version 13.8.1 for now, and if there is another version compatible with this project, then we will change this project to new project.
+
+# Setup:
+## Replit:
+1- <a href="https://replit.com/github/TFAGaming/DiscordJS-V13-Bot-Template"><button>Test</button></a>
