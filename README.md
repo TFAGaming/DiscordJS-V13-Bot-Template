@@ -18,7 +18,7 @@ Because in the future, things may change like some functions won't work anymore 
 Type in shell of your IDE: `npm install`
 ### Run the project:
 Type in the terminal or shell of your IDE `node .` or `node index.js`.
-### Features:
+# Features:
 Click on the select menu below to view available features on this project.
 <details><summary>Click here!</summary>
   
