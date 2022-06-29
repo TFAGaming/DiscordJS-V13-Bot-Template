@@ -6,6 +6,6 @@ module.exports = {
 	usage: "ping",
 	examples: [],
 	run: async (client, message, args, prefix) => {
-        return message.reply({ content: `🏓 Pong! ${client.ws.ping} ms` });
+       		return message.reply({ content: `🏓 Pong! ${client.ws.ping} ms` });
 	}
 }
