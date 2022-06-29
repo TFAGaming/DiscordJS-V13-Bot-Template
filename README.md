@@ -11,4 +11,4 @@ Because in the future, things may change like some functions won't work anymore 
 
 # Setup:
 ## Replit:
-1- <a href="https://replit.com/github/TFAGaming/DiscordJS-V13-Bot-Template"><button>Test</button></a>
+1- <button href="https://replit.com/github/TFAGaming/DiscordJS-V13-Bot-Template">Test</button>
