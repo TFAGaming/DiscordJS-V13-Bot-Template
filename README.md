@@ -1,8 +1,8 @@
 # DiscordJS V13 Bot Template:
 A simple discord bot project that is running with NodeJS and the package discord.js. Slash commands, prefix commands and events handler are ready. By the way, I have added a dynamic help command in ./commands/Information/help.js because I love you all :)
 # Requirements:
-Engine: [NodeJS V16](https://nodejs.org/en/)
-Package Manager: [NPM](https://www.npmjs.com/)
+Engine: [NodeJS V16](https://nodejs.org/en/)<br>
+Package Manager: [NPM](https://www.npmjs.com/)<br>
 Required Packages: [discord.js@13.8.1](https://www.npmjs.com/package/discord.js/v/13.8.1) - [discord-api-types](https://www.npmjs.com/package/discord-api-types) - [@discordjs/rest](https://www.npmjs.com/package/@discordjs/rest)
 
 ### Why this project requires discord.js version 13.8.1 only?
