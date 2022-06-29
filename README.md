@@ -10,5 +10,18 @@ Required Packages: [discord.js@13.8.1](https://www.npmjs.com/package/discord.js/
 Because in the future, things may change like some functions won't work anymore (Deprecated or removed). So, let's keep the DJS version 13.8.1 for now, and if there is another version compatible with this project, then we will change this project to new project.
 
 # Setup:
-## Replit:
-1- <button href="https://replit.com/github/TFAGaming/DiscordJS-V13-Bot-Template">Test</button>
+## Install packahes:
+Type in shell of your IDE: `npm i`
+## Run the project:
+Type in the terminal/console or shell of your IDE: `node .` or `node index.js`.
+## Features:
+<details><summary>Click here!</summary>
+  
+| Features             | Availability | 
+| -------------------- | ------------ |
+| Prefix Cmds Handler  |     ✅       |
+| Slash Cmds Handler   |     ✅       |
+| Events Handler       |     ✅       |
+| MongoDB              |     ❌       |
+| Custom Prefix        |     ❌       |
+</details>
