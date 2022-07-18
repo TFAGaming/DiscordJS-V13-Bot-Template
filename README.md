@@ -2,7 +2,7 @@
 A simple discord bot project that is running with NodeJS and the package discord.js. Slash commands, prefix commands and events handler are ready. By the way, I have added a dynamic help command in ./commands/Information/help.js because I love you all :)
 
 # Preview:
-<img src="https://media.discordapp.net/attachments/991530435513421825/991678633989120050/ezgif.com-gif-maker.gif">
+Gif invalid :(
 
 # Requirements:
 Engine: [NodeJS V16](https://nodejs.org/en/)<br>
