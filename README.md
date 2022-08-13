@@ -1,3 +1,6 @@
+# DISCORD.JS V14 HAS BEEN RELEASED.
+This project is **no longer supported**, check the new repository for discord.js v14: https://www.github.com/TFAGaming/DiscordJS-V14-Bot-Template
+
 # DiscordJS V13 Bot Template:
 A simple discord bot project that is running with NodeJS and the package discord.js. Slash commands, prefix commands and events handler are ready. By the way, I have added a dynamic help command in ./commands/Information/help.js because I love you all :)
 
